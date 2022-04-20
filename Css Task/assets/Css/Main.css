@@ -1,0 +1,34 @@
+
+#General{
+    width: 50%;
+    height: 600px;
+    background-color: transparent;
+    margin: 0px auto;
+}
+.Pictures{
+    width: 20%;
+    height: 150px;
+    background-color: white;
+    margin: 0px auto;
+}
+.Pictures img{
+    width: 100%;
+    height: 150px;
+    border-radius: 50%;
+}
+.line{
+    border-bottom: 1px solid aqua;
+    margin: 0px auto;
+}
+h1{
+    text-align: center;
+}
+
+.texts{
+    width: 70%;
+    background-color: transparent;
+    margin: 0px auto;
+}
+#Title{
+    color: orange;
+}

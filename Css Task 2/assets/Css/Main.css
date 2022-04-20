@@ -1,0 +1,40 @@
+*{
+    background-color: dodgerblue;
+}
+
+
+H3{
+    text-align: center;
+    color: white;
+}
+
+th:nth-child(odd) {
+    background: rgb(32, 32, 65);
+    color: white;
+  }
+  th:nth-child(even) {
+     background: rgb(106, 123, 106);
+  }
+tr td:nth-child(even) {
+    background-color: #dddddd;
+}
+tr td:nth-child(odd) {
+    background-color: white;
+}
+
+table{
+    width: 90%;
+    margin: 0px auto;
+}
+.child{
+    height: 20px;
+    text-align: center;
+}
+.tables{
+    height: 25px;
+}
+
+
+
+
+  
